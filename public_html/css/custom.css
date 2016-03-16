@@ -1,0 +1,9 @@
+h1{
+    color: #9e9e9e;
+}
+a.disabled {
+    pointer-events: none;
+}
+p{
+    color: #fafafa;
+}
